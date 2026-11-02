@@ -1,0 +1,9 @@
+.env
+*.env
+docker/data/*.json
+!docker/data/.gitkeep
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
